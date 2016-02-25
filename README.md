@@ -83,9 +83,8 @@ After that, we're relying on you all to share your reception photos with us :)
 * <i class="fa fa-instagram"><span>Instagram</span></i> [@davelab6](https://instagram.com/davelab6) [@he_aqui_gaby](https://instagram.com/he_aqui_gaby)
 * <i class="fa fa-facebook-square"><span>Facebook</span></i> [facebook.com/davelab6](https://facebook.com/davelab6)
 
-### P.S. Gift Ideas
+### P.S. Gifts
 
-This wedding has come together very quickly and we know that quite a few of you have had to make sacrifices in order to travel to New York to be with us. 
-You sharing this day with us means a great deal and we could not ask for more. 
-
-But we understand that some of you would still like to gift something, and there are some kinds of kitchen items that would be handy (but absolutely not necessary) that can be [found on Amazon](https://www.amazon.com/registry/wedding/353LWQHVKE8V3).
+We don't really need more things. 
+There are some kinds of kitchen items that would be lovely, though not necessary at all. 
+They can be [found on Amazon](https://www.amazon.com/registry/wedding/353LWQHVKE8V3).
