@@ -48,11 +48,37 @@ This is a party!
 We recommend the Ginger Lemonade (Puerto Rico + England!) 
 Once again, feel free to drop by as time allows, we’d just love to see your face! 
 
+## Saturday March 5
+
+_Let us know if you'd like to join because we'll need to make reservations._
+
+<!--
+**10am** We'll meet for brunch at the [Indian Road Cafe](https://www.google.com/search?q=indian+road+cafe+new+york) which is direct on the express A train from 14th St.
+Then we can wander back through the neighbourhood, with a [shorter](https://www.google.com/maps/dir/Indian+Road+Cafe,+600+West+218th+Street+%233,+New+York,+NY+10034/40.8655205,-73.9273104/@40.8668978,-73.9311594,4472m/data=!3m1!1e3!4m14!4m13!1m10!1m1!1s0x89c2f3f220881473:0x7c692add633abbf!2m2!1d-73.9184218!2d40.8728287!3m4!1m2!1d-73.9265525!2d40.8766861!3s0x89c2f3e5403ecb85:0xfa1a0818fd1c839f!1m0!3e2) or [longer](https://www.google.com/maps/dir/Indian+Road+Cafe,+600+West+218th+Street+%233,+New+York,+NY+10034/40.8473472,-73.9397325/@40.858761,-73.9382429,4809m/data=!3m1!1e3!4m24!4m23!1m20!1m1!1s0x89c2f3f220881473:0x7c692add633abbf!2m2!1d-73.9184218!2d40.8728287!3m4!1m2!1d-73.9265525!2d40.8766861!3s0x89c2f3e5403ecb85:0xfa1a0818fd1c839f!3m4!1m2!1d-73.9321573!2d40.8656528!3s0x89c2f4009747eb95:0x11835d93079ad4eb!3m4!1m2!1d-73.9380351!2d40.85469!3s0x89c2f6a708339fc1:0xffb40c5311b84cd1!1m0!3e2) path depending on the day. 
+-->
+
+In the afternoon we'll go see the [MoMA PS1](https://www.google.com/search?q=moma+ps1+nyc) and do dinner somewhere fun, like the [Court Square Diner](https://www.google.com/maps/place/Court+Square+Diner/@40.7471865,-73.9492755,16.9z) nearby, or [Sylvia's](https://www.google.com/maps/place/Sylvia's+Restaurant/@40.8089715,-73.9515077,16.51z/) in Harlem (the fried chicken is serious), or [Siggy's](https://www.google.com/maps/place/Siggy's+Good+Food/@40.7230103,-73.9921601,17z/) in Soho, or [Mercato](https://www.google.com/maps/place/Mercato,+352+W+39th+St,+New+York,+NY+10018/@40.7565069,-73.9923564,16z/) in Midtown. 
+Maybe later go see a movie, like [Race](https://www.google.com/search?q=race+movie), or, [The Mermaid](https://www.google.com/search?q=mermaid+movie).
+
 ### Directions
 
+For directions to Lisa's house, email us before or call us on the day.
+
 * City Clerk's Office: 141 Worth Street, Manhattan ([google map](https://www.google.com/maps/place/141+Worth+St,+New+York,+NY+10013/))
+
+Take the A train to Chambers St, exit the train and walk back towards where the train came from, exit through the turnstiles and turn left. 
+Go straight as you come up to the street and you'll see a new, very tall, apartment building being constructed straight ahead. 
+After a few blocks turn right on Worth Street and follow it a few blocks.
+
+![At Chambers St, head this way](images/2016-cityclerkdirections.jpg)
+
 * City Hall Park: Just south of the Clerk's Office ([google map](https://www.google.com/maps/place/City+Hall+Park/@40.7131601,-74.0063889,15z/))
 * Dream Downtown Hotel: 355 W 16th St, Manhattan ([google map](https://www.google.com/maps/place/Dream+Downtown/@40.742257,-74.0033957,15z/))
+
+To get the Dream Downtown Hotel, go to 14th St subway station on the blue ACE line (A is best, as it runs express) or grey L line. 
+Get off the train, take the stairs up to the station concourse and walk north (away from the grey L line) to the north end, and turn left after the turnstiles.
+Then take the stairs to the street on the right, and take the left fork on the stairs. 
+Go straight as you come up to the street and at the end of the block the hotel is on your right. 
 
 ### Dress Code
 
