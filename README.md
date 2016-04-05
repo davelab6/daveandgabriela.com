@@ -33,13 +33,14 @@ published: true
 
 Courthouse Chic, or, ask Gabriela. 
 Not Dave.
-
+ 
 ### Social Media
 
-* <i class="fa fa-instagram"><span>Instagram</span></i> [#daveandgabriela](https://www.instagram.com/explore/tags/daveandgabriela)
-* <i class="fa fa-facebook-square"><span>Facebook</span></i> [#daveandgabriela](https://www.facebook.com/search/top/?q=%23daveandgabriela)
-* <i class="fa fa-google"><span>Google Photos</span></i> [Google Photos](https://goo.gl/photos/nyCcJaHQS6GMRa47A)
+<i class="fa fa-instagram"><span>Instagram</span></i> [#daveandgabriela](https://www.instagram.com/explore/tags/daveandgabriela)  
+<i class="fa fa-facebook-square"><span>Facebook</span></i> [#daveandgabriela](https://www.facebook.com/search/top/?q=%23daveandgabriela)  
+<i class="fa fa-google"><span>Google Photos</span></i> [Google Photos](https://goo.gl/photos/nyCcJaHQS6GMRa47A)
 
 ### Contacts
 
-* <i class="fa fa-instagram"><span>Instagram</span></i> [@davelab6](https://instagram.com/davelab6) [@he_aqui_gaby](https://instagram.com/he_aqui_gaby)
+<i class="fa fa-instagram"><span>Instagram</span></i> [@davelab6](https://instagram.com/davelab6)  
+<i class="fa fa-instagram"><span>Instagram</span></i> [@he_aqui_gaby](https://instagram.com/he_aqui_gaby)
