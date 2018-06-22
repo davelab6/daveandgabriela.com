@@ -13,7 +13,7 @@ published: true
 
 ![(an early Hangouts call, 2013)](images/2013-gchat.jpg)
 
-# traveling through places hot and cold...
+# traveling in places hot and cold...
 
 ![(madrid palace, 2014)](images/2014-spain.jpg)
 
@@ -25,14 +25,9 @@ published: true
 
 <h1 style="font-size: 5em; text-align: center; margin-top: 1.5em; ">We eloped in Manhattan!</h1>
 
-## Friday March 4
+## Friday March 4, 2016
 
-*We're sad that eloping meant many of you could not make it, and we will hold a second reception in Europe later in 2016*
-
-### Dress Code
-
-Courthouse Chic, or, ask Gabriela. 
-Not Dave.
+*We're sad that eloping meant many of you could not make it, and we hope you can visit us in New York City soon!*
  
 ### Social Media
 
@@ -42,5 +37,5 @@ Not Dave.
 
 ### Contacts
 
-<i class="fa fa-instagram"><span>Instagram</span></i> [@davelab6](https://instagram.com/davelab6)  
+<i class="fa fa-twitter"><span>Twitter</span></i> [@davelab6](https://twitter.com/davelab6)  
 <i class="fa fa-instagram"><span>Instagram</span></i> [@he_aqui_gaby](https://instagram.com/he_aqui_gaby)
